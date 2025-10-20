@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36121.58
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grpc", "Grpc\Grpc.csproj", "{7F5B3AC0-0AF4-24D9-9AB0-7A7D18481FC8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grpc.Server", "Grpc.Server\Grpc.Server.csproj", "{7F5B3AC0-0AF4-24D9-9AB0-7A7D18481FC8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grpc.AppHost", "Grpc.AppHost\Grpc.AppHost.csproj", "{D70B37F1-668E-4AEC-B767-9EF3C5B5A3A9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grpc.ServiceDefaults", "Grpc.ServiceDefaults\Grpc.ServiceDefaults.csproj", "{2A07A98E-7DEF-8566-1B5B-2DAE57737995}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grpc.Main", "Grpc.Main\Grpc.Main.csproj", "{569DA19B-D8E6-5837-8A1F-7DCF0E2EC2BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grpc.Client", "Grpc.Client\Grpc.Client.csproj", "{569DA19B-D8E6-5837-8A1F-7DCF0E2EC2BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
