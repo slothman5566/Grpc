@@ -16,7 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Grpc.API\Grpc.API.csproj" />
     <ProjectReference Include="..\Grpc.Main\Grpc.Main.csproj" />
     <ProjectReference Include="..\Grpc\Grpc.csproj" />
   </ItemGroup>
